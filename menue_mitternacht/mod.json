@@ -1,0 +1,19 @@
+{
+  "id": "menue_mitternacht",
+  "type": "menu",
+  "name": "Mitternacht-Lila",
+  "author": "Flying Banana",
+  "version": "1.0",
+  "logo": "logo.png",
+  "colors": {
+    "background": "#120a24",
+    "panel": "#1d1236",
+    "panel_edge": "#b48cff",
+    "accent": "#c9a4ff",
+    "button_text": "#160c2c",
+    "text": "#f3edff",
+    "muted": "#a397c4",
+    "secondary_button": "#3f2c6e",
+    "leaf": "#7fe3a0"
+  }
+}
