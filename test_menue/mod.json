@@ -1,0 +1,18 @@
+{
+  "id": "test_menue",
+  "type": "menu",
+  "name": "Nacht-Blau",
+  "author": "Test",
+  "version": "1",
+  "logo": "logo.png",
+  "colors": {
+    "accent": "#40c0ff",
+    "background": "#06122a",
+    "panel": "#0b1d3c",
+    "text": "#e8f2ff",
+    "panel_edge": "#40c0ff",
+    "button_text": "#04101f",
+    "muted": "#90a8cc",
+    "secondary_button": "#1d3a6a"
+  }
+}
