@@ -1,0 +1,21 @@
+{
+  "id": "menue_hell",
+  "type": "menu",
+  "name": "Hell",
+  "author": "Flying Banana",
+  "version": "1.0",
+  "logo": "logo.png",
+  "colors": {
+    "background": "#e8ecf2aa",
+    "panel": "#fafbfdee",
+    "panel_edge": "#3b82f6",
+    "accent": "#2563eb",
+    "button_text": "#ffffff",
+    "text": "#1b2433",
+    "muted": "#5b6577",
+    "secondary_button": "#c9d2e0",
+    "ink": "#e1e6ee",
+    "leaf": "#2f9e44",
+    "danger": "#d6334a"
+  }
+}
