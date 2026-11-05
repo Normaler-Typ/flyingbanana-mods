@@ -1,0 +1,19 @@
+{
+  "id": "menue_kiwi",
+  "type": "menu",
+  "name": "Kiwi-Grün",
+  "author": "Flying Banana",
+  "version": "1.0",
+  "logo": "logo.png",
+  "colors": {
+    "background": "#0d1a06",
+    "panel": "#16280b",
+    "panel_edge": "#a8e05f",
+    "accent": "#a8e05f",
+    "button_text": "#10200a",
+    "text": "#f2ffe6",
+    "muted": "#a9c48c",
+    "secondary_button": "#3d5c22",
+    "leaf": "#5fe0b2"
+  }
+}
