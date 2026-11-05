@@ -1,0 +1,19 @@
+{
+  "id": "menue_erdbeere",
+  "type": "menu",
+  "name": "Erdbeer-Pink",
+  "author": "Flying Banana",
+  "version": "1.0",
+  "logo": "logo.png",
+  "colors": {
+    "accent": "#ff6fa5",
+    "background": "#2a0614",
+    "panel": "#3a0c1f",
+    "text": "#fff0f5",
+    "panel_edge": "#ff6fa5",
+    "button_text": "#2a0614",
+    "muted": "#e3a3bb",
+    "secondary_button": "#7a1f45",
+    "leaf": "#7ee081"
+  }
+}
